@@ -1,5 +1,5 @@
 # 👨🏻‍🎓 About Me:
-Hai<br>🔭 I am currently a student of Telkom University<br>💻 Informatics '22<br>🤝 I’m currently learning Flutter, Firebase, Servlet and Java Spring Boot<br>⚡ Fun fact: I Love Playing Valorant
+Hai<br>🔭 I am currently a student of Telkom University<br>💻 Informatics '22<br>🤝 I’m currently learning Flutter, Firebase, React, Tailwind CSS <br>⚡ Fun fact: I Love Playing Valorant
 
 
 ## 🌐 Socials:
